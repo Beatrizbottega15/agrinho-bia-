@@ -25,12 +25,12 @@
 
 .imagemcampo1{
     width: 35%;
-    
+
 }
 
 .escola{
     background-image: linear-gradient(hwb(25 2% 39%),hsl(25, 98%, 40%));
-    color:white;
+    color:rgb(247, 181, 94);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -62,7 +62,7 @@
     padding: 16px 0;
 }
 .rodape{
-    background-color: black;
+    background-color: rgb(160, 71, 4);
     text-align: center;
 }
 
