@@ -29,7 +29,7 @@
 }
 
 .escola{
-    background-image: linear-gradient(hwb(25 2% 39%),hsl(25, 98%, 40%));
+    background-image: linear-gradient(hwb(25 2% 39%),hsl(41, 97%, 45%));
     color:rgb(247, 165, 58);
     display: flex;
     justify-content: center;
@@ -53,7 +53,7 @@
     padding: 24px 0;
 }
 
-.estudante-imagem{
+.queijoimagem{
     width: 120px;
 }
 
