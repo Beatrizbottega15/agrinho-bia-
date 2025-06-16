@@ -36,6 +36,22 @@
     align-items: center;
     padding: 24px 0;
 }
+.escola-texto-um{
+    color:rgb(68, 39, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-texto-dois{
+    color:rgb(68, 39, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
 
 .escola-div-conteudo{
     width: 35%;
@@ -44,7 +60,7 @@
     padding: 24px 0;
 }
 .lã-imagem{
-    size: 24%;
+    size: 35%;
 }
 
 
