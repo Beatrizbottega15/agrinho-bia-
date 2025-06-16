@@ -29,6 +29,7 @@
 }
 
 .escola-texto-um{
+    background-color:rgb(154, 88, 3), rgb(247, 165, 58) ;
     color:rgb(68, 39, 1);
     display: flex;
     justify-content: center;
@@ -52,10 +53,13 @@
     padding: 24px 0;
 }
 .lã-imagem{
-    size: 50%;
+    size: 35%;
 }
 
 
+.estudante{
+    padding: 24px 0;
+}
 .queijo-nome{
     padding: 24px 0;
 }
