@@ -29,8 +29,8 @@
 }
 
 .texto{
-    background-color:(rgb(154, 88, 3), rgb(247, 165, 58)) ;
-    color:rgb(68, 39, 1);
+     background-image: linear-gradient(rgb(154, 88, 3), rgb(247, 165, 58))
+    color: rgb(68, 39, 1);
     display: flex;
     justify-content: center;
     align-items: center;
