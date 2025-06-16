@@ -29,7 +29,7 @@
 }
 
 .escola-texto-um{
-    background-color:rgb(154, 88, 3), rgb(247, 165, 58) ;
+    background-color:(rgb(154, 88, 3), rgb(247, 165, 58)) ;
     color:rgb(68, 39, 1);
     display: flex;
     justify-content: center;
@@ -38,6 +38,7 @@
 }
 
 .escola-texto-dois{
+    background-color:(rgb(154, 88, 3), rgb(247, 165, 58)) ;
     color:rgb(68, 39, 1);
     display: flex;
     justify-content: center;
@@ -45,6 +46,7 @@
     padding: 24px 0;
 }
 .escola-título{
+    background-color:(rgb(154, 88, 3), rgb(247, 165, 58)) ;
     color: rgb(120, 58, 0);
 }
 
