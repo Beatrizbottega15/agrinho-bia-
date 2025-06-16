@@ -28,14 +28,6 @@
 
 }
 
-.escola{
-    background-image: linear-gradient(hwb(25 2% 39%),hsl(41, 97%, 45%));
-    color:rgb(247, 165, 58);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
-}
 .escola-texto-um{
     color:rgb(68, 39, 1);
     display: flex;
@@ -76,7 +68,7 @@
 }
 
 .queijoimagem{
-    width: 120px;
+    size: 35%;
 }
 
 .estudante-icone{
