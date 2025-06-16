@@ -28,13 +28,28 @@
 
 }
 
-.texto{
-     background-image: linear-gradient(rgb(154, 88, 3), rgb(247, 165, 58))
+.texto-um{
     color: rgb(68, 39, 1);
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+}
+texto-dois{
+    color: rgb(68, 39, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.agrinho{
+     background-image: linear-gradient(#64c095,#2c744a);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
 }
 
 .-título{
@@ -43,7 +58,7 @@
 
 
 .escola-div-conteudo{
-    
+
     width: 35%;
 }
 
